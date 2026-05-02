@@ -1,0 +1,69 @@
+market_id,market,countryiso3,admin1,admin2,latitude,longitude
+226,National Average,EGY,,,,
+6028,Abour,EGY,Qalyubia,Abour,30.25,31.47
+6029,Al-Arab,EGY,Port Said,قسم العرب,31.26,32.3
+6030,Gamsa,EGY,Dakahlia,Gamsa,31.44,31.55
+6031,Damanhur,EGY,Beheira,قسم دمنهور,31.04,30.47
+6032,Idku,EGY,Beheira,Idku,31.3,30.3
+6033,Kafr Sad,EGY,Damietta,Kafr Sad,31.35,31.69
+6034,Ras al-Bar,EGY,Damietta,Ras al Bar,31.51,31.83
+6035,Muntazah,EGY,Alexandria,Muntazah,31.25,29.99
+6036,Al Amreia,EGY,Alexandria,قسم ثان العامريه,31.02,29.79
+6037,Sidi Barani,EGY,Matrouh,Sidi Barani,31.61,25.92
+6038,Marsa Matruh,EGY,Matrouh,Marsa Matruh,31.35,27.24
+6039,Atfeh,EGY,Giza,Atfeh,29.41,31.25
+6040,Al Wasta,EGY,Beni Suef,Al Wasta,29.34,31.21
+6041,Bani Swayf City,EGY,Beni Suef,قسم بنى سويف,29.08,31.09
+6042,Fayyum City,EGY,Fayoum,قسم اول الفيوم,29.31,30.84
+6043,Sinuras,EGY,Fayoum,Sinuras,29.41,30.87
+6044,Ahnasya,EGY,Beni Suef,Ahnasya,29.09,30.95
+6045,Al Fashn,EGY,Beni Suef,Al Fashn,28.82,30.9
+6046,Biba,EGY,Beni Suef,Biba,28.92,30.98
+6047,Dayrut,EGY,Assiut,Dayrut,27.56,30.81
+6048,Markz Matay,EGY,Minya,Markz Matay,28.42,30.78
+6049,Al- Badari,EGY,Assiut,Al Badari,26.99,31.42
+6050,Dar al-Salam,EGY,Sohag,Dar Al Salam,26.28,32.06
+6051,Suhag,EGY,Sohag,Akhmim,26.56,31.72
+6052,Farshut,EGY,Qena,Farshut,26.06,32.17
+6053,Qina City,EGY,Qena,Qina,26.16,32.73
+6054,Qus,EGY,Qena,Qus,25.92,32.76
+6055,Isna,EGY,Luxor,Isna,25.3,32.55
+6056,Kum Umbu,EGY,Aswan,Kum Umbu,24.48,32.95
+6057,Adfu,EGY,Aswan,Adfu,24.98,32.88
+6058,Daraw,EGY,Aswan,Daraw,24.41,32.93
+6059,Aswan City,EGY,Aswan,قسم اول اسوان,24.09,32.9
+6064,Sahil Silim,EGY,Assiut,Sahil Silim,27.06,31.34
+6065,Nasir,EGY,Beni Suef,Nasir,29.14,31.14
+6066,Damietta,EGY,Damietta,مركز كفر البطيخ,31.41,31.73
+6067,Dumyat,EGY,Damietta,Dumyat 2,31.43,31.8
+6068,Dumyat Al-Gadida,EGY,Damietta,Dumyat Al Gadida,31.43,31.68
+6069,Sixth of october,EGY,Giza,6 October-1,29.97,30.95
+6070,Markz Al Minya,EGY,Minya,Kesm Al minya,28.11,30.75
+6071,Markz Bani Mazar,EGY,Minya,Markz Bani Mazar,28.5,30.81
+6072,Markz Mallawi,EGY,Minya,Kesm Mallawi,27.74,30.84
+6073,Assuit city,EGY,Assiut,Kesm Awal Assuit,27.18,31.18
+6074,Ayat,EGY,Giza,Ayat,29.62,31.26
+6075,Burg al-Arab,EGY,Alexandria,Burg Al Arab City,30.89,29.58
+6076,El Mansora,EGY,Dakahlia,El Mansora 1,31.04,31.37
+8217,10th of Ramadan,EGY,Sharqia,10 Ramadan 1,30.29,31.74
+8218,Abu Tesht,EGY,Qena,Abu Tisht,26.12,32.09
+8219,Akhmim,EGY,Sohag,Akhmim,26.57,31.75
+8220,Al Alameen,EGY,Matrouh,Alamn,30.83,28.96
+8221,Alhamam,EGY,Matrouh,Al Hammam,30.84,29.39
+8222,Alqurana,EGY,Luxor,مركز القرنه,25.72,32.63
+8223,Awlad Sakr,EGY,Sharqia,Awlad Saqr,30.93,31.7
+8224,Coptos,EGY,Qena,Qift,25.99,32.8
+8225,Dishna,EGY,Qena,Dishna,26.12,32.46
+8226,El Waqf,EGY,Qena,Al Waqf,26.09,32.43
+8227,El-Husseiniya,EGY,Sharqia,Al Husayniya,30.86,31.91
+8228,Fuka,EGY,Matrouh,Marsa Matruh,31.11,27.87
+8229,Gehena,EGY,Sohag,Guhayna Al Gharbiyya,26.67,31.5
+8230,Gerga,EGY,Sohag,Girga,26.34,31.88
+8231,Nag Hammadi,EGY,Qena,Nag Hammadi,26.05,32.24
+8232,Naqada,EGY,Qena,Naqada,25.91,32.72
+8233,Sumusta,EGY,Beni Suef,Sumusta,28.92,30.86
+8234,Tamia,EGY,Fayoum,Tamya,29.47,30.95
+8235,Zagazig,EGY,Sharqia,Zaqaziq 1,30.58,31.5
+8348,Luxor,EGY,Luxor,Luxor,25.69,32.64
+9637,Cairo,EGY,Cairo,Abdin,30.05,31.24
+10254,Cairo (national average),EGY,Cairo,Abdin,30.05,31.24
